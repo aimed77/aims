@@ -1,0 +1,54 @@
+.header {
+  height: 480px;
+  width: 100%;
+  background: url("../img/Desert.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header_navbar {
+  height: 100px;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  text-align: justify;
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 65px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: green;
+  text-decoration: underline;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.text-center a {
+  width: 100%;
+  margin-left: 40px;
+  text-decoration: none;
+  color: springgreen;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.test {
+  border: 1px solid red;
+  background-color: red;
+}
