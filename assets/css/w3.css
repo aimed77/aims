@@ -1077,7 +1077,7 @@ a {
   font-size: 15px !important;
 }
 .w3-large {
-  font-size: 18px !important;
+  font-size: 19px !important;
 }
 .w3-xlarge {
   font-size: 24px !important;
@@ -1290,7 +1290,7 @@ a {
 .w3-red,
 .w3-hover-red:hover {
   color: #fff !important;
-  background-color: #f44336 !important;
+  background-color: #ff0d00 !important;
 }
 .w3-sand,
 .w3-hover-sand:hover {

@@ -26,26 +26,43 @@ p {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
+p2 {
+  font-weight: bold;
+  text-align: justify;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
 h1 {
   color: red;
   text-align: center;
-  font-size: 65px;
+  font-size: 75px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h2 {
   color: green;
+  text-align: center;
   text-decoration: underline;
-  font-size: 30px;
+  font-size: 40px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .text-center a {
   width: 100%;
+  font-size: 25px;
   margin-left: 40px;
   text-decoration: none;
   color: springgreen;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.interieure {
+  color: rgb(0, 0, 0);
+}
+
+.interieure2 {
+  color: rgb(255, 255, 255);
 }
 
 .test {
